@@ -1,0 +1,77 @@
+Aman Agrawal
+Computer Science Engineer
+
+Bhubaneswar, India 751030
++917008617171
+amanagrawal20156@gmail.com
+LinkedIn: https://www.linkedin.com/in/aman-agrawal-1338961b7
+
+Professional Summary
+
+Currently I am Pursuing my B.Tech degree in Computer Science.
+I Like solving problems and have been participating in contest
+regularly . Beside a programmer I like playing cricket and I am a good team member.
+
+Work History
+
+September 2021 - October 2021
+GearUp Remote, India
+Coding Contest Calender
+
+I build a website where all the recent hackathon and coding contest date are shown
+I used HTML%,CSS# ,BOOTSTRAP and HAVASCRIPT for the frontend part
+I fetch different sites website data Through API's and displayed on my site
+
+Education
+
+September 2020 - Current
+Siksha 'O' Anushandhan University Bhubaneswar,Odisha,India
+Bachelor of Engineering Technology Computer Science
+I am a Computer Science Engineering Student.
+CGPA: 9.75
+
+August 2017 - June 2019
+Sukanti Academy Sonepur
+High School  Science Stream
+I completed My 10+2 (Science Stream) From Sukanti Academy
+Percentage:81.69
+
+Accomplishments
+
+Participated in CodeKaze conducted by Coding Ninjas and Secure a National Rank 2368 and College Rank 3 and Rewarded with cash prize.
+Participated in Google HashCode and our team secure a Global Rank of 2513 and India Rank 919.
+Participated in Google KickStart and secure a Rank of 7884.
+Gear-Up contest conducted by College and was the finalist.
+
+Additional Information
+
+I regularly Participate in Contest and My max Rating in Codechef is 1768.
+I have done about 200 question in leetcode
+
+Certifications
+
+Microsoft Azure Az900 
+
+Java certification by Hackerrank
+
+Google HashCode
+
+Google KickStart
+
+Gear up finalist
+
+Skills
+
+Java
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+JavaScript
+
+MySql
+
+PHP
